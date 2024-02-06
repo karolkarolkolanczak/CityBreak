@@ -4,7 +4,7 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Authors](#authors)
+* [Author](#author)
 
 ## General Information
 Application for administrators who are managing informations about destinations of short holiday trips to different cities location.
