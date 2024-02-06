@@ -1,14 +1,13 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Authors](#authors)
 
 ## General Information
-Fitness and diet App.
+Application for administrators who are managing informations about destinations of short holiday trips to different cities location.
 
 ## Technologies Used
 - Java
@@ -26,7 +25,7 @@ Fitness and diet App.
 3. Run the server on backend site, then run Angular on frontend site typing *ng serve* in your terminal.
 
 ## Usage
-For all who wants to keep strong and healthy.
+For owners of travel blogs.
 
 ## Project Status
 Project is completed, but open for improvements.
